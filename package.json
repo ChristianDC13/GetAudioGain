@@ -1,0 +1,39 @@
+{
+  "name": "get-audio-gain",
+  "version": "0.1.0",
+  "description": "GetAudioGain is a tool that will help you obtain the gain values ​​of an audio file, separating it into segments based on a specified time lapse, as well as knowing which parts of the audio can be considered silence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "get-audio-gain",
+    "get",
+    "audio",
+    "gain",
+    "waves",
+    "nodejs",
+    "wav",
+    "buffer",
+    "optimized"
+  ],
+  "author": "Christian De La Cruz",
+  "license": "MIT",
+  "dependencies": {
+    "get-audio-duration": "^3.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "peerDependencies": {
+    "get-audio-duration": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianDC13/GetAudioGain.git"
+  },
+  "homepage": "https://github.com/ChristianDC13/GetAudioGain#README.md",
+  "bugs": {
+    "url": "https://github.com/ChristianDC13/GetAudioGain/issues"
+  }
+}
