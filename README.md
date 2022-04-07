@@ -7,13 +7,13 @@ GetAudioGain is a tool that will help you obtain the gain values ​​of an aud
 You can install this tool in your projects this way
 
 ```bash
-npm install audio-gain
+npm install get-audio-gain
 ```
 
 OR
 
 ```bash
-yarn add audio-gain
+yarn add get-audio-gain
 ```
 
 ### Usage
